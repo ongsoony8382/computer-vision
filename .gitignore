@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Documents
+*.hwp
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.webp
+
+# OS
+.DS_Store
+Thumbs.db
